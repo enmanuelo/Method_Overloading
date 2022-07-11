@@ -1,0 +1,15 @@
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/bin/Debug/net6.0/Method_Overloading
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/bin/Debug/net6.0/Method_Overloading.deps.json
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/bin/Debug/net6.0/Method_Overloading.runtimeconfig.json
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/bin/Debug/net6.0/Method_Overloading.dll
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/bin/Debug/net6.0/Method_Overloading.pdb
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.AssemblyInfo.cs
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.dll
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/refint/Method_Overloading.dll
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.pdb
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/Method_Overloading.genruntimeconfig.cache
+/Users/enmanueldiaz/Desktop/repos/Method_Overloading/Method_Overloading/obj/Debug/net6.0/ref/Method_Overloading.dll
