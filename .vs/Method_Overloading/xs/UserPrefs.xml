@@ -1,5 +1,26 @@
 ﻿<Properties StartupConfiguration="{56984539-47AF-4649-BD69-80384EB09197}|Default">
-  <MonoDevelop.Ide.ItemProperties.Method__Overloading FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Methods FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Method__Overloading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Method_Overloading/Program.cs">
+    <Files>
+      <File FileName="Method_Overloading/Program.cs" Line="10" Column="30" />
+      <File FileName="Method_Overloading/Methods.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Method_Overloading" expanded="True">
+            <Node name="Method_Overloading" expanded="True" />
+            <Node name="Methods" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
